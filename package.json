@@ -1,0 +1,38 @@
+{
+  "name": "vite-three-ts",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "5.9.55",
+    "roboto-fontface": "*",
+    "three": "^0.137.5",
+    "three-dat.gui": "^2.0.7",
+    "three-orbitcontrols": "^2.110.3",
+    "vue": "^3.2.25",
+    "vuetify": "^3.0.0-alpha.0",
+    "webfontloader": "^1.6.28",
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "^0.7.7",
+    "@types/three": "^0.137.0",
+    "@vitejs/plugin-vue": "^2.0.0",
+    "@vue/cli-plugin-babel": "5.0.0-beta.7",
+    "@vue/cli-service": "^3.3.1",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.3",
+    "lil-gui": "^0.16.0",
+    "sass": "^1.49.0",
+    "sass-loader": "^10.0.0",
+    "tailwindcss": "^3.0.18",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2",
+    "vue-cli-plugin-vuetify": "~2.4.5",
+    "vue-tsc": "^0.29.8",
+    "vuetify-loader": "^2.0.0-alpha.0"
+  }
+}
